@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .COMMUNITY one-word domains still available to buy.
 
-This dataset contains 3,703 .COMMUNITY one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,776 .COMMUNITY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.COMMUNITY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.top) (3,672) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/community-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (3.7K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (3.7K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (3.78K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (3.78K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.67K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -43,6 +43,7 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | abhorrent.community  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.community    | available | 106      | 5%     | 7      |           |         |         |
 | abient.community     | available | 54       | 1%     | 6      |           |         |         |
+| abit.community       | available | 66       | 16%    | 5      |           |         |         |
 | abject.community     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.community     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.community  | available | 78       | 1%     | 9      |           |         |         |
@@ -50,12 +51,11 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | abkhazian.community  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.community    | available | 52       | 2%     | 7      |           |         |         |
 | ablative.community   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.community     | available | 72       | 6%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/community-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (3.7K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (3.7K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (3.78K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (3.78K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.67K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
