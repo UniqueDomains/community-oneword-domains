@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .COMMUNITY one-word domains still available to buy.
 
-This dataset contains 4,117 .COMMUNITY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,118 .COMMUNITY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.COMMUNITY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.top) (4,114) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | aaron.community      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.community  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.community      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.community  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.community  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.community    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.community     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.community   | available | 54       | 1%     | 8      |           |         |         |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | abbatial.community   | available | 50       | 1%     | 8      |           |         |         |
 | abc.community        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.community  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.community  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.community  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.community | available | 56       | 1%     | 10     |           |         |         |
 | abducens.community   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.community   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | aberdonian.community | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.community   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.community    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.community  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.community  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.community    | available | 106      | 5%     | 7      |           |         |         |
 | abient.community     | available | 54       | 1%     | 6      |           |         |         |
 | ability.community    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
