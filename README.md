@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .COMMUNITY one-word domains still available to buy.
 
-This dataset contains 4,106 .COMMUNITY one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,318 .COMMUNITY one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.COMMUNITY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.top) (4,101) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/community-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (4.11K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (4.11K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (4.32K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (4.32K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.1K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.community      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.community      | available | 88       | 28%    | 5      |           |         |         |
 | abactinal.community  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.community      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.community  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,6 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | abatic.community     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.community    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.community   | available | 50       | 1%     | 8      |           |         |         |
-| abc.community        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.community  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.community  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.community | available | 56       | 1%     | 10     |           |         |         |
@@ -45,17 +44,18 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | abhorrent.community  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.community    | available | 106      | 5%     | 7      |           |         |         |
 | abient.community     | available | 54       | 1%     | 6      |           |         |         |
-| ability.community    | available | 92       | 18%    | 7      |           |         |         |
-| abit.community       | available | 66       | 16%    | 5      |           |         |         |
+| ability.community    | available | 92       | 16%    | 7      |           |         |         |
+| abit.community       | available | 66       | 12%    | 5      |           |         |         |
 | abject.community     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.community     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.community  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.community     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.community  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/community-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (4.11K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (4.11K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.csv"><b>⬇️ CSV (4.32K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/community-oneword-domains/blob/main/community.json"><b>⬇️ JSON (4.32K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=community-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.1K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.COMMUNITY one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
