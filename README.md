@@ -1,10 +1,10 @@
-# Available .COMMUNITY One-Word Domains (8,228)
+# Available .COMMUNITY One-Word Domains (8,231)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C231%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C228%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C231%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .community one-word domains from U
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,231 rows · **Live catalog:** 8,228 domains
+**Public extract:** 8,231 rows · **Live catalog:** 8,231 domains
 
 **Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/community`  
@@ -80,10 +80,10 @@ print(df.head())
 | search.community  | resell    | —         | —             | 70             | 57     | 6      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | direct.community  | premium   | $250      | $250          | 104            | 38     | 6      | name.com                                 |
 | done.community    | available | $14.99    | $65.99        | 80             | 36     | 4      | name.com                                 |
-| zero.community    | resell    | —         | —             | 112            | 54     | 4      | Sav.com, LLC                             |
+| music.community   | resell    | —         | —             | 84             | 54     | 5      | GoDaddy.com, LLC                         |
 | organic.community | premium   | $82.50    | $82.50        | 93             | 33     | 7      | name.com                                 |
 | short.community   | available | $14.99    | $65.99        | 76             | 36     | 5      | name.com                                 |
-| music.community   | resell    | —         | —             | 84             | 54     | 5      | GoDaddy.com, LLC                         |
+| wallet.community  | resell    | —         | —             | 74             | 54     | 6      | GoDaddy.com, LLC                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,231-row public sample | 8,228 live domains                               |
+| 8,231-row public sample | 8,231 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
