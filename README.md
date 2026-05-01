@@ -1,10 +1,10 @@
-# Available .COMMUNITY One-Word Domains (10,436)
+# Available .COMMUNITY One-Word Domains (11,053)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C436%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C053%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .community one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,436 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,053 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,436 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,053 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/community`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| Ryan.community        | available | $58.98    | —             | 60             | 44     | 4      | namecheap            |
-| skills.community      | resell    | —         | —             | 58             | 47     | 6      | Sav.com, LLC - 29    |
-| farmers.community     | premium   | $46.20    | $46.20        | 54             | 59     | 7      | namecheap            |
-| shortcuts.community   | available | $14.99    | —             | 48             | 41     | 10     | name.com             |
-| europe.community      | resell    | —         | —             | 68             | 36     | 6      | Sav.com, LLC         |
-| virtual.community     | premium   | $82.50    | —             | 80             | 42     | 7      | name.com             |
-| matcha.community      | available | $14.99    | —             | 86             | 39     | 6      | name.com             |
-| chain.community       | resell    | —         | —             | 64             | 35     | 5      | Dynadot Inc          |
-| jobs.community        | premium   | $500      | —             | 79             | 42     | 4      | name.com             |
-| tickets.community     | available | $14.99    | —             | 64             | 34     | 7      | name.com             |
-| gray.community        | resell    | —         | —             | 68             | 30     | 4      | Sav.com, LLC - 38    |
-| NYC.community         | premium   | $280      | $280          | 82             | 38     | 3      | namecheap            |
-| payments.community    | available | $14.99    | —             | 58             | 33     | 8      | name.com             |
-| gettogether.community | resell    | —         | —             | 82             | 8      | 12     | Securebackorder EOOD |
-| homes.community       | premium   | $123.75   | —             | 86             | 34     | 5      | name.com             |
-| William.community     | available | $58.98    | —             | 74             | 31     | 7      | namecheap            |
-| etc.community         | premium   | $82.50    | —             | 58             | 34     | 3      | name.com             |
-| SanDiego.community    | available | $14.99    | —             | 74             | 29     | 9      | name.com             |
-| solutions.community   | premium   | $123.75   | —             | 56             | 31     | 9      | name.com             |
-| Jim.community         | available | $58.98    | —             | 78             | 28     | 3      | namecheap            |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| Ryan.community      | available | $58.98    | —             | 60             | 44     | 4      | namecheap         |
+| skills.community    | resell    | —         | —             | 58             | 47     | 6      | Sav.com, LLC - 29 |
+| farmers.community   | premium   | $46.20    | $46.20        | 54             | 59     | 7      | namecheap         |
+| matcha.community    | available | $14.99    | —             | 86             | 39     | 6      | name.com          |
+| europe.community    | resell    | —         | —             | 68             | 36     | 6      | Sav.com, LLC      |
+| homes.community     | premium   | $123.75   | —             | 86             | 34     | 5      | name.com          |
+| payments.community  | available | $14.99    | —             | 58             | 33     | 8      | name.com          |
+| chain.community     | resell    | —         | —             | 64             | 35     | 5      | Dynadot Inc       |
+| solutions.community | premium   | $123.75   | —             | 56             | 31     | 9      | name.com          |
+| SanDiego.community  | available | $14.99    | —             | 74             | 29     | 9      | name.com          |
+| slots.community     | resell    | —         | —             | 49             | 31     | 5      | Sav.com, LLC      |
+| photos.community    | premium   | $123.75   | —             | 54             | 28     | 6      | name.com          |
+| Jim.community       | available | $58.98    | —             | 78             | 28     | 3      | namecheap         |
+| gray.community      | resell    | —         | —             | 68             | 30     | 4      | Sav.com, LLC - 38 |
+| tips.community      | premium   | $123.75   | —             | 80             | 26     | 4      | name.com          |
+| KFC.community       | available | $58.98    | —             | 74             | 27     | 3      | namecheap         |
+| demand.community    | resell    | —         | —             | 78             | 21     | 6      | GoDaddy.com, LLC  |
+| webs.community      | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo          |
+| systems.community   | available | $14.99    | —             | 46             | 27     | 7      | name.com          |
+| VHS.community       | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,436 live domains                              |
+| 1,000-row public sample | 11,053 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
