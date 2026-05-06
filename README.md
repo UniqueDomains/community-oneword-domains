@@ -1,10 +1,10 @@
-# Available .COMMUNITY One-Word Domains (11,054)
+# Available .COMMUNITY One-Word Domains (11,058)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C054%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C058%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .community one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,054 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,058 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,054 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,058 domains · **Median ask:** $19.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/community`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | europe.community    | resell    | —         | —             | 68             | 36     | 6      | Sav.com, LLC      |
 | homes.community     | premium   | $123.75   | —             | 86             | 34     | 5      | name.com          |
 | payments.community  | available | $14.99    | —             | 58             | 33     | 8      | name.com          |
-| chain.community     | resell    | —         | —             | 64             | 35     | 5      | Dynadot Inc       |
+| chain.community     | resell    | —         | —             | 64             | 34     | 5      | Dynadot Inc       |
 | solutions.community | premium   | $123.75   | —             | 56             | 31     | 9      | name.com          |
 | SanDiego.community  | available | $14.99    | —             | 74             | 29     | 9      | name.com          |
 | slots.community     | resell    | —         | —             | 49             | 31     | 5      | Sav.com, LLC      |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,054 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,058 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .community domains. The names range from direct dictionary terms such as teeth.community and week.community to more expressive words such as forgive.community and hahaha.community. For founders, the main question is whether the word feels clear, memorable, and credible with the .community ending. For investors, the key issue is whether the entry price leaves room for resale despite a niche extension. With a median ask of 19.61, the pricing is low enough to compare several options, but word quality matters more than price alone in this set.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .community extension
+- Median ask is 19.61 across 11,058 listed domains
+- Best fits are clear words that pair naturally with .community
+- Be cautious with awkward, negative, or overly broad terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
