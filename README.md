@@ -1,10 +1,10 @@
-# Available .COMMUNITY One-Word Domains (11,064)
+# Available .COMMUNITY One-Word Domains (11,065)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C064%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C065%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .community one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,064 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,065 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,064 domains · **Median ask:** $19.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,065 domains · **Median ask:** $18.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/community`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/community`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COMMUNITY one-word do
 
 ### Files
 
-- `community.csv` — public CSV extract (1,000 rows)
-- `community.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `community.csv`, public CSV extract (1,000 rows)
+- `community.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| Ryan.community      | available | $58.98    | —             | 60             | 44     | 4      | namecheap         |
-| skills.community    | resell    | —         | —             | 58             | 47     | 6      | Sav.com, LLC - 29 |
-| farmers.community   | premium   | $46.20    | $46.20        | 54             | 59     | 7      | namecheap         |
-| matcha.community    | available | $14.99    | —             | 86             | 39     | 6      | name.com          |
-| europe.community    | resell    | —         | —             | 68             | 36     | 6      | Sav.com, LLC      |
-| homes.community     | premium   | $123.75   | —             | 86             | 34     | 5      | name.com          |
-| payments.community  | available | $14.99    | —             | 58             | 33     | 8      | name.com          |
-| chain.community     | resell    | —         | —             | 64             | 34     | 5      | Dynadot Inc       |
-| solutions.community | premium   | $123.75   | —             | 56             | 31     | 9      | name.com          |
-| SanDiego.community  | available | $14.99    | —             | 74             | 29     | 9      | name.com          |
-| slots.community     | resell    | —         | —             | 49             | 31     | 5      | Sav.com, LLC      |
-| photos.community    | premium   | $123.75   | —             | 54             | 28     | 6      | name.com          |
-| Jim.community       | available | $58.98    | —             | 78             | 28     | 3      | namecheap         |
-| gray.community      | resell    | —         | —             | 68             | 30     | 4      | Sav.com, LLC - 38 |
-| tips.community      | premium   | $123.75   | —             | 80             | 26     | 4      | name.com          |
-| KFC.community       | available | $58.98    | —             | 74             | 27     | 3      | namecheap         |
-| demand.community    | resell    | —         | —             | 78             | 21     | 6      | GoDaddy.com, LLC  |
-| webs.community      | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo          |
-| systems.community   | available | $14.99    | —             | 46             | 27     | 7      | name.com          |
-| VHS.community       | premium   | $46.20    | $46.20        | 71             | 20     | 3      | namecheap         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| Ann.community   | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| car.community   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                                    |
+| age.community   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| bag.community   | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| pot.community   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                                    |
+| apt.community   | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                           |
+| beg.community   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                           |
+| bear.community  | resell    | —         | —             | high           | low    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| boy.community   | premium   | $82.50    | —             | medium         | low    | 3      | name.com                                                           |
+| bug.community   | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| best.community  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                                    |
+| hit.community   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                           |
+| bus.community   | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| swim.community  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                                    |
+| log.community   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| cot.community   | available | $14.99    | —             | high           | low    | 3      | name.com                                                           |
+| earth.community | resell    | —         | —             | medium         | medium | 5      | GoDaddy Online Services Cayman Islands Ltd.                        |
+| los.community   | premium   | $82.50    | —             | high           | low    | 3      | name.com                                                           |
+| Fla.community   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                           |
+| green.community | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,064 live domains                        |
+| 1,000-row public sample | 11,065 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .community domains. The names range from direct dictionary terms such as teeth.community and week.community to more expressive words such as forgive.community and hahaha.community. For founders, the main question is whether the word feels clear, memorable, and credible with the .community ending. For investors, the key issue is whether the entry price leaves room for resale despite a niche extension. With a median ask of 19.61, the pricing is low enough to compare several options, but word quality matters more than price alone in this set.
+This set of one-word .community domains spans 11,065 short, single-string names built for clubs, forums, membership platforms, and niche audience projects. Median ask sits near $18, putting most names within reach for early-stage founders while still offering enough volume for investors comparing multiple picks. Because .community signals a shared-interest or membership purpose, names that are short, easy to spell, and free of trademark conflicts tend to stand out. When comparing these domains, weigh the asking price against renewal cost and how clearly the word communicates a community or network concept.
 
-- All names in this selection use the .community extension
-- Median ask is 19.61 across 11,058 listed domains
-- Best fits are clear words that pair naturally with .community
-- Be cautious with awkward, negative, or overly broad terms
+- 11,065 one-word .community domain names in this set
+- Median ask around $18 — budget-friendly entry point
+- Short, brandable names for clubs, platforms, and networks
+- Compare renewal cost and spelling ease before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
