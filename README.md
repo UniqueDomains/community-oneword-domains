@@ -1,10 +1,10 @@
-# Available .COMMUNITY One-Word Domains (21,126)
+# Available .COMMUNITY One-Word Domains (21,547)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C126%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C547%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .community one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,126 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,547 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,126 domains · **Median ask:** $34.61 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 21,547 domains · **Median ask:** $34.68 · **High-demand under $2,500:** 2
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/community`
@@ -76,13 +76,13 @@ print(df.head())
 | cva.community     | available | $47.98    | $58.98        | medium         | low    | 3      | namecheap                                                 |
 | mail.community    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 41                                         |
 | banker.community  | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
-| gur.community     | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
+| dug.community     | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
 | safe.community    | resell    | —         | —             | high           | medium | 4      | —                                                         |
 | skyway.community  | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
-| hut.community     | available | $47.98    | $58.98        | high           | low    | 3      | namecheap                                                 |
+| gur.community     | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
 | sell.community    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
 | bicycle.community | premium   | $42.90    | $42.90        | high           | low    | 7      | namecheap                                                 |
-| nne.community     | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
+| hut.community     | available | $47.98    | $58.98        | high           | low    | 3      | namecheap                                                 |
 | unit.community    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,126 live domains                        |
+| 1,000-row public sample | 21,547 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
