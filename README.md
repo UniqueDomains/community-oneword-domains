@@ -1,10 +1,10 @@
-# Available .COMMUNITY One-Word Domains (23,539)
+# Available .COMMUNITY One-Word Domains (25,397)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C539%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C397%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .community one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,539 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,397 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,539 domains · **Median ask:** $35.29 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 25,397 domains · **Median ask:** $35.86 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/community`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| atp.community    | available | $35.20    | $35.20        | high           | low    | 3      | cloudflare                                                |
-| best.community   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
-| kid.community    | premium   | $512      | $512          | high           | low    | 3      | namesilo                                                  |
-| bed.community    | available | $36.43    | $36.43        | high           | low    | 3      | spaceship                                                 |
-| lord.community   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| sts.community    | premium   | $36.30    | $37.67        | high           | low    | 3      | dynadot                                                   |
-| bia.community    | available | $8.24     | $37.67        | medium         | low    | 3      | dynadot                                                   |
-| love.community   | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| horse.community  | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                  |
-| btu.community    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
-| mail.community   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 41                                         |
-| lotto.community  | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap                                                 |
-| cns.community    | available | $45.99    | $45.99        | medium         | low    | 3      | namesilo                                                  |
-| sell.community   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
-| banker.community | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo                                                  |
-| cva.community    | available | $47.98    | $58.98        | medium         | low    | 3      | namecheap                                                 |
-| unit.community   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
-| harlem.community | premium   | $68.51    | $68.51        | high           | low    | 6      | spaceship                                                 |
-| dug.community    | available | $45.99    | $45.99        | high           | low    | 3      | namesilo                                                  |
-| atlas.community  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| appointment.community | available | $35.20    | $35.20        | high           | low    | 11     | cloudflare                                                |
+| efficient.community   | available | $8.24     | $37.67        | high           | low    | 9      | dynadot                                                   |
+| medicine.community    | resell    | —         | —             | high           | low    | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
+| fiber.community       | available | $35.20    | $35.20        | high           | low    | 5      | cloudflare                                                |
+| prominent.community   | available | $45.99    | $45.99        | high           | low    | 9      | namesilo                                                  |
+| best.community        | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| roast.community       | available | $8.24     | $37.67        | high           | low    | 5      | dynadot                                                   |
+| spirits.community     | available | $36.43    | $36.43        | high           | low    | 7      | spaceship                                                 |
+| profitable.community  | available | $45.99    | $45.99        | high           | low    | 10     | namesilo                                                  |
+| taste.community       | available | $36.43    | $36.43        | high           | low    | 5      | spaceship                                                 |
+| middle.community      | available | $45.99    | $45.99        | high           | low    | 6      | namesilo                                                  |
+| union.community       | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                              |
+| giant.community       | available | $47.98    | $58.98        | high           | low    | 5      | namecheap                                                 |
+| somebody.community    | available | $45.99    | $45.99        | high           | low    | 8      | namesilo                                                  |
+| substitute.community  | available | $47.98    | $58.98        | high           | low    | 10     | namecheap                                                 |
+| dramatic.community    | available | $45.99    | $45.99        | high           | low    | 8      | namesilo                                                  |
+| occasion.community    | available | $35.20    | $35.20        | high           | low    | 8      | cloudflare                                                |
+| passionate.community  | available | $45.99    | $45.99        | high           | low    | 10     | namesilo                                                  |
+| choose.community      | available | $35.20    | $35.20        | high           | low    | 6      | cloudflare                                                |
+| bed.community         | available | $36.43    | $36.43        | high           | low    | 3      | spaceship                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,539 live domains                        |
+| 1,000-row public sample | 25,397 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMMUNITY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
